@@ -1,0 +1,26 @@
+body {
+    font-size: 22px;
+}
+
+h3{
+  font-size: 30px ;
+}
+h1{
+  text-align: center;
+  background-image: linear-gradient(to right, red , yellow);
+}
+h4{
+  font-size :30px;
+}
+h5{
+  font-size: 30px;
+}
+h6{
+  font-weight: 30px;
+}
+p{
+  border-top: solid;
+  border-left: solid;
+  border-right: solid ;
+  border-bottom: solid;
+}
